@@ -4,7 +4,7 @@
 
 ## 无图无真相？
 
-![gif](https://github.com/Mcguffen/react_demo/blob/gh-pages/react_demo.gif)
+![gif](react_demo.gif)
 
 ## 照猫画虎(4个小组件)
 
