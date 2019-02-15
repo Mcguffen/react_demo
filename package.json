@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://Mcguffen.github.io/react_demo",
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "react-scripts": "0.8.5"
   },
   "dependencies": {
